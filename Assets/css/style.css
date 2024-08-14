@@ -61,12 +61,12 @@ section {
     text-align: right;
     margin: 3.5%;
     color: yellow;
-    font-style: 18px;
+    font-size: 18px;
     line-height: 1.2;
 }
 .hero-cta h2 {
     font-style: italic;
-    font-style: 55px;
+    font-size: 55px;
     color: navy;
 }
 .hero-form {
@@ -104,3 +104,32 @@ section {
     font-size: 16px;
 }
 /* hero styles end */
+
+/* section title styles start */
+.section title {
+    font-size: 48px;
+    border-bottom: 3px solid;
+    color: lavender;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+}
+.primary-border {
+    border-color: orange;
+}
+.secondary-border {
+    border-color: brown;
+}
+/* section title style end */
+
+/* what we do section start */
+.intro p {
+    line-height: 1.7;
+    color: blue;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+}
+/* what we do style end */
